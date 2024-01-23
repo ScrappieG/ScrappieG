@@ -1,7 +1,7 @@
-Computer Science Students at the University of Florida 🐊<br>
-Pursuing a career in data science<br><br>
+👨‍🎓Computer Science Student at the University of Florida 🐊<br>
+🚀Pursuing a career in data science<br><br>
 
-Creator of Guild Buddy (guildbuddy.com)
+🤖Creator of Guild Buddy (guildbuddy.com)
 
 
 <!---
