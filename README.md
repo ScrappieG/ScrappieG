@@ -1,4 +1,4 @@
-Computer Science Students at the University of Florida 🐊
+Computer Science Students at the University of Florida 🐊<br>
 Pursuing a career in data science
 
 
