@@ -1,5 +1,5 @@
 👨‍🎓Computer Science Student at the University of Florida 🐊<br>
-🚀Pursuing a career in data science<br><br>
+I like math and computer science :D<br><br>
 
 🤖Creator of Guild Buddy (guildbuddy.com)
 
