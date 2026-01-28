@@ -1,7 +1,5 @@
 Computer Science Student at the University of Florida 🐊<br>
-<br><br>
 
-🤖Creator of Guild Buddy (guildbuddy.com)
 
 
 <!---
